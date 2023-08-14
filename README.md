@@ -7,7 +7,7 @@ The API has several endpoints that let users get data in JSON format, such as a
 
 ## Deployed URL
 
---  https://ab-backend-project.vercel.app/  --
+--  https://ab-backend-project-m0f25tfc1-amitbej.vercel.app/  --
 
 ## There are four API endpoints in this app
 
