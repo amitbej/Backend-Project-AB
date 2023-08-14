@@ -1,0 +1,26 @@
+div {
+    margin: 2%;
+}
+
+.navbar-brand{
+    height: 40px;
+}
+.capstone{
+    
+    margin-top: 0;
+    margin-left: 0rem;
+    color: rgb(77, 75, 75);
+}
+
+.logo{
+    height: 20px;
+    width: 20px;
+}
+
+em {
+    background-color: rgb(132, 127, 127);
+    color: white;
+    padding: 2px;
+}
+
+
